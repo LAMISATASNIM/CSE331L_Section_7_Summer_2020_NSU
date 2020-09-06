@@ -10,8 +10,10 @@ Department of Electrical and Computer Engineering
 This is the official Github Repository for <b>CSE331L: Microprocessor Interfacing & Embedded System Lab, Section 7, Summer 2020</b>. All course-related materials and Code submission will be facilitated here.</br> </br> 
 Instructor: <strong>Asif Ahmed Neloy</strong> (email: asif.neloy@northsouth.edu)
 
-
-</br>
+## _Office Hour:_
+* Thursday: 7.00 pm to 8.00 pm.
+* Link: https://meet.google.com/pnd-gfcz-ssg
+* **P.S. Make Sure you have studied the class lecture and slides, and the questions are well prepared before joining.**
 </p>
 
 ## _Course Description:_ (Outline - <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/blob/master/Materials/CSE331L_Course_Outline_Summer_2020_Section_7.pdf">Here</a>)
@@ -19,6 +21,9 @@ Instructor: <strong>Asif Ahmed Neloy</strong> (email: asif.neloy@northsouth.edu)
 This course provides an introduction to the fundamental concept of microprocessor architecture and microprocessor based embedded systems. A basic idea of the internal and external architecture of the microprocessor 8086 will be provided followed by the physical pin diagram of microprocessor 8086. The course will also cover the other peripheral devices of a microprocessor based system i.e. RAM 6116, PIO 8255 Controller and 7-Segment Display. The course will then cover the programming languages for interfacing: Assembly language followed by Interrupt and data conversion algorithm. A brief introduction to the Microcontroller 8051 will also be provided. Simulation software tool: emulator 8086 will be introduced in the laboratory classes for doing simulation-based project works. This course has separate mandatory laboratory session every week as CSE 331L.
 </p>
 
+## _Lab Hours:_
+* Tuesday: 8.00 am to 11.10 pm.
+* **Lab will start from 8.10 am and attendance will be taken on 8.20 am**
 
 ## _Mark Distribution:_
 <p align="central">
@@ -48,9 +53,6 @@ This course provides an introduction to the fundamental concept of microprocesso
 
 > The marks distribution may change according to the discretion of the instructor.
 
-
-</br>
-
 ## _Tentative Class Schedule:_
 <p align="central">
 <table style="border:2px solid black;margin-left:auto;margin-right:auto;">
@@ -62,15 +64,60 @@ This course provides an introduction to the fundamental concept of microprocesso
   </tr>
   <tr>
     <th>Week 1</th>
-    <th><a href="">Lab1</a></th> 
+    <th><a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides/Lab_1">Lab 1</a></th> 
     <th>Introduction to Github and ASM</th>
     <th>14.07.2020</th>
   </tr>
   <tr>
-
+    <th>Week 2</th>
+    <th><a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides/Lab_2">Lab 2</a></th> 
+    <th>Introduce Basic MOV functions. </th>
+    <th>21.07.2020</th>
+  </tr>
+  <tr>
+    <th>Week 3</th>
+    <th><a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides/Lab_3">Lab 3</a></th> 
+    <th>Basic arithmetic, logical functions and interrupt</th>
+    <th>4.08.2020</th>
+  </tr>
+  <tr>
+    <th>Week 4</th>
+    <th><a href="">Lab 4</a></th> 
+    <th>Mid-Term</th>
+    <th>18.08.2020</th>
+  </tr>
+  <tr>
+    <th>Week 5</th>
+    <th><a href="https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/blob/master/Slides/Lab_5/CSE331L_5.pdf">Lab 5</a></th> 
+    <th>Control Flow Instruction 1</th>
+    <th>25.08.2020</th>
+  </tr>
+  <tr>
+    <th>Week 6</th>
+    <th><a href="">Lab 6</a></th> 
+    <th>Project Day-1</th>
+    <th>1.09.2020</th>
+  </tr>
+  <tr>
+    <th>Week 7</th>
+    <th><a href="">Lab 7</a></th> 
+    <th>Project Day-2</th>
+    <th>08.09.2020</th>
+  </tr>
+  <tr>
+    <th>Week 8</th>
+    <th><a href="">Lab 8</a></th> 
+    <th>Control Flow Instruction 2</th>
+    <th>15.09.2020</th>
+  </tr>
+  <tr>
+    <th>Week 9</th>
+    <th><a href="">Lab 9</a></th> 
+    <th>Final</th>
+    <th>22.09.2020</th>
+  </tr>
 </table>
 </p>
-</br>
 
 ## _Required Software:_
 
@@ -80,7 +127,6 @@ This course provides an introduction to the fundamental concept of microprocesso
 4. **Git SCM** - https://git-scm.com/downloads
 5. **Github Desktop** - https://desktop.github.com/
 
-</br>
 
 ## _Submission Guideline_:
 <p align="central">
@@ -97,37 +143,23 @@ This course provides an introduction to the fundamental concept of microprocesso
 10. Check your file is submitted or not.
 
 </p>
-</br>
 
-## _Homework:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Homework%20Submission/Homework%201">Link</a>)
+## _Submission Links_:
 
-<p align="central">
-  <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
-  <tr>
-    <th>Homework 1</th> 
-    <th>20.07.2020 (Before 11.59pm)</th>   
-  </tr> 
-</table>
-</p>
-</br>
+* _Homework:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Homework%20Submission/Homework%201">Link</a>)
 
-## _Lab Assessment:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
+* _Lab Assessment:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
 
-<p align="central">
-  <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
-  <tr>
-    <th>Assessment 1</th> 
-    <th>14.07.2020 (Before 11.59am)</th>   
-  </tr> 
-</table>
-</p>
-</br>
+## _Lab Resource_:
+
+* _Marks:_ (Updated <a href="https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/blob/master/Marks/CSE331L_Section_7_Marks.pdf">Here</a>)
+* _Class Lecture_: https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides
+* _Lab Code_: https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/tree/master/Codes
 
 ## _Project_ 
 <p align="justify">
 Will Update Later
 </p>
-</br>
 
 ## _Github Instructions:_
 <p align="justify">
@@ -143,9 +175,8 @@ Will Update Later
 
 
 </html>
-</br>
 
 ## License 📄
-_This work is dual-licensed under MIT and CC BY-NC-SA 4.0. You can choose between one of them if you use this work._
+This work is dual-licensed under MIT and CC BY-NC-SA 4.0. You can choose between one of them if you use this work.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
